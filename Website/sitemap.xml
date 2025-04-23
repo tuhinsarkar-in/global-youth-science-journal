@@ -24,7 +24,7 @@
 
   <!-- Journals & Research Papers Page -->
   <url>
-    <loc>https://iysjournal.vercel.app/journals&researchpapers.html</loc>
+    <loc>https://iysjournal.vercel.app/journals&amp;researchpapers.html</loc>
     <lastmod>2025-04-23</lastmod>
     <priority>0.80</priority>
   </url>
