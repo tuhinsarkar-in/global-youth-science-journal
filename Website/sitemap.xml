@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Home page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Index Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/index.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- 404 Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/404.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Journals & Research Papers Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/journals&researchpapers.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Call for Paper Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/call-for-paper.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Editorial Board Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/editorial-board.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Submit Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/submit.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Author Guidelines Page -->
+  <url>
+    <loc>https://iysjournal.vercel.app/authorguidelines.docx</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- PDF Guide -->
+  <url>
+    <loc>https://iysjournal.vercel.app/guide.pdf</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Images Directory -->
+  <url>
+    <loc>https://iysjournal.vercel.app/images/</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.20</priority>
+  </url>
+
+  <!-- Img Directory -->
+  <url>
+    <loc>https://iysjournal.vercel.app/img/</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.20</priority>
+  </url>
+  
+</sitemapindex>
