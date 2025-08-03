@@ -8,7 +8,7 @@
       "source": "/:path*",
       "destination": "/404.html",
       "has": [
-        { "type": "missing", "value": "/:path*" }
+        { "type": "host", "value": "!globalyouthsciencejournal.vercel.app" }
       ]
     }
   ],
